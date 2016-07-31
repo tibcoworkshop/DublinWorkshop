@@ -10,6 +10,6 @@ Instructions:
 
 3. Click on "raw"
 
-4. Copy and Paste the "raw" link to http://tibconow.mashery.com/automation
+4. Open a new tab and go to http://tibconow.mashery.com/automation
 
-
+5. Select "Swagger2Mashery" and paste the raw url in the field.
