@@ -1,4 +1,4 @@
-# DublinWorkshop
+# Dublin Workshop
 
 TIBCO API Management Platform uses industry standards for optimal API lifecycle management from Creation to Distribution.
 
