@@ -1,6 +1,6 @@
 # DublinWorkshop
 
-TIBCOs Enterprise API Management Platform uses industry standards for optimal API lifecycle management from Creation to Distribution.
+TIBCO API Management Platform uses industry standards for optimal API lifecycle management from Creation to Distribution.
 
 Instructions:
 
